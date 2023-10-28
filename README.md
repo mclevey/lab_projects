@@ -1,2 +1,3 @@
-# lab_projects
+# Lab Projects
+
 Template for lab projects.
